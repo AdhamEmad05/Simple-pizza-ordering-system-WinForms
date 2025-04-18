@@ -1,0 +1,50 @@
+C:\Users\Adham\source\repos\Pizza Project\bin\Debug\Pizza Project.exe.config
+C:\Users\Adham\source\repos\Pizza Project\bin\Debug\Pizza Project.exe
+C:\Users\Adham\source\repos\Pizza Project\bin\Debug\Pizza Project.pdb
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza Project.csproj.AssemblyReference.cache
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.Form1.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza Project.csproj.GenerateResource.cache
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza Project.csproj.CoreCompileInputs.cache
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza Project.exe
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza Project.pdb
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.frmTextBox.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.frmTextBox2.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.frmPictureBox.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.MainForm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.Excercise_PicturBox.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.frmDrawing.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.Tic_Tac_Toe_Game.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.FrmMaskedTextBox.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.ComboBoxFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.ComboBoxExercise.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.LinkLabelFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.CheckedListBoxFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.DateTimePickerFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.MonthCalandarFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.TimerFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.NotifyIconFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.Treeview_And_ImageList.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.ProgressBarFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.ListViewFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.ErrorProviderFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.TrackBarFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.NumericUpDownFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.TabControlFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.ColorDialogFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.DialogsFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.FontDialogFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.FileSaveDialogFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.MDIConatinerFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.MenuesFrm.resources
+C:\Users\Adham\source\repos\Pizza Project\obj\Debug\Pizza_Project.ContextMenuFrm.resources
+G:\Pizza Project\bin\Debug\Pizza Project.exe.config
+G:\Pizza Project\bin\Debug\Pizza Project.exe
+G:\Pizza Project\bin\Debug\Pizza Project.pdb
+G:\Pizza Project\obj\Debug\Pizza Project.csproj.AssemblyReference.cache
+G:\Pizza Project\obj\Debug\Pizza_Project.Form1.resources
+G:\Pizza Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+G:\Pizza Project\obj\Debug\Pizza Project.csproj.GenerateResource.cache
+G:\Pizza Project\obj\Debug\Pizza Project.csproj.CoreCompileInputs.cache
+G:\Pizza Project\obj\Debug\Pizza Project.exe
+G:\Pizza Project\obj\Debug\Pizza Project.pdb
